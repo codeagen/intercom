@@ -16,7 +16,8 @@ A sleek Pomodoro focus timer built on top of the Intercom stack by Trac Systems.
 3. No installation or server needed
 
 ## Proof
-![Screenshot](screenshot.png)
+<img width="1887" height="901" alt="image" src="https://github.com/user-attachments/assets/27fbbad3-c28c-48c6-b82f-31dc5966d699" />
+
 
 ## Trac Address
-YOUR_TRAC_ADDRESS_HERE
+trac1lqddxxe247cgxwe04p2gd0z0gffaj7s4xtwmme7xnsqu795xhm0qx23aex
